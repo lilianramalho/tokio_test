@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174736859153",
+    "project_id": "tokiotest-4c1ca",
+    "storage_bucket": "tokiotest-4c1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174736859153:android:50103a5486fd064d6211b0",
+        "android_client_info": {
+          "package_name": "com.example.tokio_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174736859153-mp7ib8kq30udufgbs9j9e8o1ur72h9le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtXfrebai-A5AHw8I6AtvyfKBNiBuV_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174736859153-mp7ib8kq30udufgbs9j9e8o1ur72h9le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
